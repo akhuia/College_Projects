@@ -1,0 +1,28 @@
+I conceived the idea of SafePath for the Design Methods class project, and developed the initial prototype along with the design specifications with my team members. (We were "Team Empathy".)
+
+Team Empathy's Members:
+
+Abhigyan Kaustubh
+Gloria Deng
+Carrie Wang
+Adrian Dsa
+
+
+Continued the project after the end of the course on my own, refining it further. 
+
+------------------------------------------------------------------------------
+My Details:
+
+Name : Abhigyan Kaustubh
+
+Graduate Research Assistant, CSE,UW        
+MS in Information Management Candidate, iSchool, UW
+Mobile#: (206)371-0808 	    Email: akhuia@uw.edu
+-------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------
+
+
+Currently, am using Google Maps API to develop it.
